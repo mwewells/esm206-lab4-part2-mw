@@ -1,1 +1,8 @@
-# esm206-lab4-part2-mw
+My readme
+- some
+- bullet 
+- points
+
+asdfasdfasdf
+
+*asdfasdf*
